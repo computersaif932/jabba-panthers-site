@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Sameer Khan",
+    "role": "Coach",
+    "dob": "01-01-2000",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358222810.jpeg",
+    "phone": "7400810795"
+  },
+  {
+    "id": 2,
+    "name": "Zafir Khan",
+    "role": "Batsman",
+    "dob": "01-01-2003",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": true,
+    "image": "/uploads/1778354581239.png",
+    "phone": "7354156127"
+  },
+  {
+    "id": 3,
+    "name": "Saif Khan",
+    "role": "Batsman",
+    "dob": "04-08-2005",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778761273397.jpg",
+    "phone": "7509246459"
+  },
+  {
+    "id": 4,
+    "name": "Farhan Ali",
+    "role": "Bowler",
+    "dob": "01-01-2008",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358242680.jpeg",
+    "phone": "7747953815"
+  },
+  {
+    "id": 5,
+    "name": "Nadeem Khan",
+    "role": "Batsman",
+    "dob": "01-01-1998",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358255965.jpeg",
+    "phone": "9098966518"
+  },
+  {
+    "id": 6,
+    "name": "Ayaan Khan",
+    "role": "Batsman",
+    "dob": "02-05-2008",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358269097.jpeg",
+    "phone": "8878742396"
+  },
+  {
+    "id": 7,
+    "name": "Arman Ali",
+    "role": "Batsman",
+    "dob": "01-01-2003",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358277624.jpeg",
+    "phone": "7415722232"
+  },
+  {
+    "id": 8,
+    "name": "Imran Khan",
+    "role": "Batsman",
+    "dob": "01-01-2000",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358287139.jpeg",
+    "phone": "7580844779"
+  },
+  {
+    "id": 9,
+    "name": "Fazal Mohammad",
+    "role": "Batsman",
+    "dob": "02-03-2007",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778761235694.jpeg",
+    "phone": "7415314437"
+  },
+  {
+    "id": 10,
+    "name": "Arman Khan",
+    "role": "Bowler",
+    "dob": "10-12-2007",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778761253579.jpeg",
+    "phone": "6264749004"
+  },
+  {
+    "id": 11,
+    "name": "Alfaij Khan",
+    "role": "Batsman",
+    "dob": "01-01-2007",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358327127.jpeg",
+    "phone": "9171106053"
+  },
+  {
+    "id": 12,
+    "name": "Rizwan Khan",
+    "role": "Batsman",
+    "dob": "02-05-1997",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358350634.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Faizaan Khan",
+    "role": "Batsman",
+    "dob": "01-01-2002",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358363688.jpeg",
+    "phone": "7415934572"
+  },
+  {
+    "id": 14,
+    "name": "Arbaj Khan",
+    "role": "Batsman",
+    "dob": "01-01-2003",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358483235.jpeg",
+    "phone": "9993192117"
+  },
+  {
+    "id": 15,
+    "name": "Javid Khan",
+    "role": "Batsman",
+    "dob": "02-05-1992",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358397003.jpeg",
+    "phone": "9691088079"
+  },
+  {
+    "id": 16,
+    "name": "Aman Khan",
+    "role": "Batsman",
+    "dob": "01-01-2009",
+    "placeOfBirth": "Morar Idgah Gwalior",
+    "captain": false,
+    "image": "/uploads/1778358408085.jpeg",
+    "phone": "9399508156"
+  }
+]
